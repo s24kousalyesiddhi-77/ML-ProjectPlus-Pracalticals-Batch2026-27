@@ -4,7 +4,7 @@ Upload **any CSV**, choose the column to predict, and six machine learning model
 compete on it. The app picks the fairest winner, explains the result in plain
 language, and lets you test what-if changes.
 
-**Live app:** <**Live app:** https://mlmodelarena-qr8aokjkhvz6drtsmv25up.streamlit.app/>
+** Live app: https://mlmodelarena-qr8aokjkhvz6drtsmv25up.streamlit.app/
 
 ## Works on any classification dataset
 - Handles **numeric and text columns**, missing values, and ID-like columns (ignored automatically).
